@@ -1,0 +1,24 @@
+source,lang,published_at,title,text,url
+NHK World,jp,2022-02-24,"Russia launches military action in Ukraine","Japan's Prime Minister condemns Russia's invasion, calling it a violation of international law. Tokyo announced sanctions in line with the US and EU.","https://www3.nhk.or.jp/nhkworld/en/news/20220224_40/"
+Japan Times,jp,2022-02-24,"Japan condemns Russia’s invasion, joins Western sanctions","The Japanese government strongly denounced Moscow’s actions in Ukraine and pledged economic measures together with allies.","https://www.japantimes.co.jp/news/2022/02/24/world/russia-ukraine-invasion-japan-response/"
+BBC,west,2022-02-24,"Ukraine conflict: Russia launches full-scale invasion","Russian forces launched a major military assault on Ukraine, with missile strikes and explosions reported across the country. Western leaders condemned the attack as unprovoked and unjustified.","https://www.bbc.com/news/world-europe-60503037"
+New York Times,west,2022-02-24,"Russia Attacks Ukraine From All Sides","Moscow began a wide-ranging invasion of Ukraine, striking cities and military targets. President Biden denounced the action as a premeditated war of choice.","https://www.nytimes.com/2022/02/24/world/europe/russia-ukraine-invasion.html"
+RT,ru,2022-02-24,"Putin announces special military operation in Donbas","Russian President Vladimir Putin declared a 'special military operation' to protect people in Donbas, aiming for demilitarization and to prevent NATO expansion.","https://www.rt.com/russia/550071-putin-announces-operation-donbass/"
+Sputnik,ru,2022-02-24,"Russia begins operation to defend Donbas","The Russian Defense Ministry said its forces were targeting military infrastructure only, stressing the operation was necessary to ensure security.","https://sputnikglobe.com/20220224/russia-operation-donbas/"
+China Daily,cn,2022-02-24,"China urges dialogue as Russia launches operation","Beijing called on all parties to exercise restraint, avoid escalation, and resolve the crisis through negotiations, while refraining from condemning Moscow.","https://www.chinadaily.com.cn/a/202202/24/WS62175c65a310cdd39bc89f3e.html"
+Global Times,cn,2022-02-24,"US, NATO blamed for escalating Ukraine crisis","Chinese analysts said Washington and NATO expansion fueled tensions that led to the current conflict. China reiterated its position for peaceful talks.","https://www.globaltimes.cn/page/202202/1252892.shtml"
+Kyiv Independent,ua,2022-02-24,"Russia launches large-scale invasion of Ukraine","Russian troops crossed the border from multiple directions. Ukrainian officials report dozens killed in the first hours, urging international partners for immediate support.","https://kyivindependent.com/national/russia-launches-large-scale-invasion-of-ukraine"
+Ukrinform,ua,2022-02-24,"Ukraine appeals for help as Russian invasion begins","President Zelensky called on the international community to impose sanctions and provide military assistance as Ukraine faced a full-scale invasion.","https://www.ukrinform.net/rubric-ato/3411482-ukraine-appeals-for-help-as-russian-invasion-begins.html"
+Notes from Poland,cee,2022-02-24,"Poland activates emergency measures as Russia invades","Warsaw condemns the invasion and prepares to receive refugees at eastern crossings.","https://example.com/nfp1"
+The Baltic Times,cee,2022-02-24,"Baltic leaders call for stronger NATO deterrence","Estonia, Latvia and Lithuania urge allies to reinforce eastern flank.","https://example.com/baltic1"
+Deutsche Welle,eu,2022-02-24,"EU vows 'massive' sanctions on Russia","EU leaders agree on a comprehensive sanctions package after Russia attacks Ukraine.","https://example.com/dw1"
+Anadolu Agency,tr,2022-02-24,"Türkiye calls for cease-fire, offers to mediate talks","Ankara urges restraint and positions itself as a mediator between parties.","https://example.com/aa1"
+Al Jazeera English,me,2022-02-24,"Russia invades Ukraine: What we know so far","Live updates track developments and global reactions as fighting spreads.","https://example.com/aje1"
+The Hindu,in,2022-02-24,"India calls for immediate cessation of violence","New Delhi urges dialogue while focusing on evacuation of Indian nationals.","https://example.com/hindu1"
+BelTA,by,2022-02-24,"Belarus says security concerns justified actions","Officials cite regional security threats and cooperation with Moscow.","https://example.com/belta1"
+Press TV,ir,2022-02-24,"NATO expansion blamed for Ukraine crisis","Commentary argues Western policies triggered the confrontation.","https://example.com/presstv1"
+Reuters,wire,2022-02-24,"Missiles rain down as Russia invades Ukraine","International markets tumble; leaders plan coordinated sanctions.","https://example.com/reuters1"
+AP,wire,2022-02-24,"Russia launches attack on Ukraine; blasts heard in Kyiv","World condemns move; thousands flee toward western borders.","https://example.com/ap1"
+
+streamlit run app.py
+
