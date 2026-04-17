@@ -34,25 +34,6 @@ and vocabulary comparison.
 - The vocabulary analysis assumes English text
 - This is an experimental MVP, not a production system
 
-## How to run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Zitatori/Multilingual-News.git
-cd Multilingual-News
-
-
-
-## Quickstart
-```bash
-git clone https://github.com/<yourname>/multilingual-news-mvp.git
-cd multilingual-news-mvp
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-
-python analyze.py     # process data
-streamlit run app.py  # launch UI
 
 
 ## Data format
@@ -67,3 +48,21 @@ The input file must be a CSV with the following columns:
 | title | article title |
 | text | article body |
 | url | article link |
+
+
+## Quickstart
+```bash
+git clone https://github.com/<yourname>/multilingual-news-mvp.git
+cd Multilingual-News
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
+python analyze.py     # process data
+streamlit run app.py  # launch UI
+
+
+
+
+
+
+
